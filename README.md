@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Afika Makhinyana<br>IT Technician | Aspiring Data Analyst Tech Stack & Tools<br>Data Analytics: SQL | Databricks | Snowflake | BigQuery | Google Notebook | Looker Studio | Excel<br>IT Systems & Support: Active Directory | Microsoft 365 | SharePoint | Elastic | Kibana | BeyondTrust | SCCM | LAPS<br>Networking & Security: Fortinet VPN | Network Architecture | Printer & Device Networking | Basic Routing<br>Design & Collaboration: Canva | Miro | GitHub | Vercel | Lovable AI<br><br>Certifications<br><br>Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate<br>Elixir Live Certification<br><br>Connect With Me<br>Email: simthandileavu@gmail.com<br>Phone: 067 926 9408 / 067 819 4369<br>Location: Johannesburg, South Africa<br><br>Turning raw data into real decisions. 📊
-
+Hi 👋, I'm Afika Makhinyana<br>IT Technician | Aspiring Data Analyst Tech Stack & Tools
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/afikamakh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afikamakhinyana@gmail.com) 
