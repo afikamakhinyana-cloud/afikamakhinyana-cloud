@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi 👋, I'm Afika Makhinyana<br>IT Technician | Aspiring Data Analyst Tech Stack & Tools
 
-Skills
+Skills:
 Data Analytics: SQL | Databricks | Snowflake | BigQuery | Google Notebook | Looker Studio | Excel
 IT Systems & Support: Active Directory | Microsoft 365 | SharePoint | Elastic | Kibana | BeyondTrust | SCCM | LAPS
 Networking & Security: Fortinet VPN | Network Architecture | Printer & Device Networking | Basic Routing
